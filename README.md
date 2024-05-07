@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasin1609
-- 👀 I’m interested in Video Game
+- 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me idk
